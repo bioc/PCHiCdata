@@ -1,0 +1,9 @@
+PCHiCdata/data
+PCHiCdata/inst/extdata/GMchinputFiles
+PCHiCdata/inst/extdata/GMfeatures
+PCHiCdata/inst/extdata/hg19TestDesign
+PCHiCdata/inst/extdata/mESCchinputFiles
+PCHiCdata/inst/extdata/mESCfeatures
+PCHiCdata/inst/extdata/mm9TestDesign
+PCHiCdata/inst/extdata/sGM12878Settings
+PCHiCdata/inst/extdata/smESCSettings
