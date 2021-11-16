@@ -4,7 +4,7 @@ Title: Promoter Capture Hi-C data
 Version: 1.23.1
 Date: 2015-05-22
 Author: Paula Freire-Pritchett, Jonathan Cairns, Steven Wingett, Mikhail Spivakov
-Maintainer: Paula Freire-Pritchett <paula.freire-pritchett@babraham.ac.uk>
+Maintainer: Mikhail Spivakov <mikhail.spivakov@lms.mrc.ac.uk>
 Description: Subsets of Promoter Capture Hi-C data conveniently packaged for 
 	Chicago users. Data includes interactions detected for chromosomes 20 and 21 in 
 	GM12878 cells and for chromosomes 18 and 19 in mESC.
